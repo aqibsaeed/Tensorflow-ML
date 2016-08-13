@@ -7,4 +7,5 @@ So far, I have implemented below mentioned algorithms (available as IPython note
 * Linear regression for housing price prediction (Boston dataset )
 * Logistic regression for multi-class classification (Iris dataset)
 * K Nearest Neighbours for letter recognition (Letter Recognition dataset)
+* Logistic regression with SMOTE for anomaly detection
 
