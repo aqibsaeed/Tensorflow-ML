@@ -9,4 +9,5 @@ Below mentioned algorithms (available as IPython notebooks).
 * K Nearest Neighbours for letter recognition (Letter Recognition dataset)
 * Logistic regression with SMOTE for anomaly detection
 * Convolution Neural Network for custom image dataset
+* Neural Network for Multilabel Classification (Yeast dataset)
 
